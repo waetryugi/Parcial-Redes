@@ -1,0 +1,2 @@
+Simulación en Python
+Desarrolle un script en Python que simule el comportamiento de la ventana de congestión (cwnd) de TCP en función de eventos simulados de éxito o pérdida de paquetes.
